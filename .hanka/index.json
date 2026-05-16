@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "slug": "test",
+    "filePath": "skills/test/SKILL.md",
+    "name": "test",
+    "description": "test",
+    "tags": [],
+    "category": "general",
+    "version": "1.0.0",
+    "public": false,
+    "created": "2026-05-16",
+    "updated": "2026-05-16",
+    "fileCount": 1
+  }
+]
